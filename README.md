@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Maria</h1>
-<h3 align="center">A passionate FullStack developer from Spain</h3>
+<h3 align="center">A passionate FrontEnd developer from Spain</h3>
 
 - 👯 I’m looking to collaborate on **on challenging projects**
 
